@@ -1,0 +1,104 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.nav-bg{
+    background-color: rgba(107, 145, 66, 0.1)!important;
+}
+
+.btn-color {
+    background-color: #396C03 !important;
+}
+
+.btn-secondary {
+    background-color: #FF8B00 !important;
+}
+
+.bg-card {
+    background-color: rgb(255, 255, 255, 0.4);
+}
+
+.font {
+    font-size: 50px;
+    font-weight: 700;
+    color: #396C03;
+    font-family: 'Merienda', cursive;
+}
+
+.font2 {
+    font-size: 24px;
+}
+
+input[type=text]{
+    padding-left:40px ;
+}
+
+.text-color {
+    color: rgba(255, 139, 0, 1);
+}
+
+.icon {
+    color: rgb(255, 255, 255);
+    background-color: rgba(255, 139, 0, 1);
+}
+
+.search {
+    color: white;
+    background-color: #396C03;
+}
+
+.bd-color {
+    border: #396C03;
+
+}
+
+.btn-primary {
+    background-color: rgba(57, 108, 3, 1) !important;
+
+}
+
+.background-color {
+    background: rgba(255, 255, 255, 1);
+
+}
+
+.btn-light {
+    color: #396C03 !important;
+    border: 1px solid #396C03 !important;
+
+}
+.card-color{
+    background-color: rgba(57, 108, 3, 0.1) !important;
+}
+
+.bg-footer {
+    background: rgba(255, 139, 0, 0.1);
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+ul li {
+    list-style: none;
+}
+
+.li-bold {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.footer li{
+    padding-bottom: 8px;
+}
+.z-index{
+    z-index:1 ;
+}
+.size-12{
+    font-size: 12px;
+}
+.green-clr{
+    color: #396C03 !important;
+    font-size: 40px;
+    font-weight: 700;
+}
